@@ -10,3 +10,4 @@
 2019-06-04 11:13:35.326 ERROR 7172 --- [main] com.cgh.first.FirstApplicationTests      : This is error
 2019-06-04 11:13:35.331  INFO 7172 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 add
+merge
